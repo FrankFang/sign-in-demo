@@ -52,9 +52,6 @@ myButton.addEventListener('click', (e)=>{
 })
 
 
-return new Promise(function(resolve, reject)){
-
-}
 
 
 
